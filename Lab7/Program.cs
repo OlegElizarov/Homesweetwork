@@ -77,10 +77,7 @@ namespace lab7
             new DepartmentEmployee(4, 1),
             new DepartmentEmployee(5, 4),
             new DepartmentEmployee(6, 2),
-            new DepartmentEmployee(7, 2),
-            new DepartmentEmployee(8, 1),
-            new DepartmentEmployee(9, 2),
-            new DepartmentEmployee(10, 4),
+            
         };
 
         static void Main(string[] args)
